@@ -29,3 +29,5 @@ else:
     print("틀렸습니다. 정답은 %s입니다." % english_word)
 
 close.in_file
+
+#테스트
