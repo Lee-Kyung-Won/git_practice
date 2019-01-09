@@ -12,3 +12,5 @@ for line in in_file:
 average = amount // day
 
 in_file.close()
+
+print("경원")
