@@ -1,0 +1,22 @@
+#travel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+.body .text {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.body .text a {
+    margin-left: 10px;
+    margin-left: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(88, 89, 91);
+    font-family: Helvetica
+}
+.body .images {
+    text-align: center;
+}
